@@ -37,6 +37,7 @@
     height: 95px;
     color:white;
     width:1300px;
+    padding-left: 16%;
 }
 .headerContainer p{
     text-align: center;
